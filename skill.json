@@ -1,0 +1,26 @@
+{
+  "name": "pdf-master",
+  "displayName": "PDF Master",
+  "description": "AI-powered PDF intelligence for editing, generation, and manipulation. Includes 15+ operations, 8 conversion formats, security features, form handling, and optimization across Python, Node.js, and CLI tools.",
+  "version": "1.0.0",
+  "author": "slnquangtran",
+  "license": "MIT",
+  "repository": "https://github.com/slnquangtran/claude-skills",
+  "keywords": [
+    "pdf",
+    "pdf-generation",
+    "pdf-editing",
+    "document",
+    "pypdf",
+    "reportlab",
+    "pdf-lib",
+    "ai-skill"
+  ],
+  "platforms": [
+    "claude",
+    "cursor",
+    "windsurf",
+    "copilot"
+  ],
+  "install": "Copy .claude/skills/pdf-master/ to your project"
+}
